@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: techtrends
-        image: techtrends:latest
+        image: jasonnio/techtrends:latest
         ports:
         - containerPort: 3111
         resources:
