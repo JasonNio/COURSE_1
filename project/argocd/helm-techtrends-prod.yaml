@@ -13,7 +13,7 @@ spec:
       valueFiles:
       - values-prod.yaml 
     path: project/helm
-    repoURL: 
+    repoURL: https://github.com/JasonNio/COURSE_1
     targetRevision: HEAD
  # Sync policy
  syncPolicy: {}
