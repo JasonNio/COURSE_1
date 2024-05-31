@@ -31,5 +31,4 @@ jobs:
           context: ./project
           file: ./project/Dockerfile
           push: true
-          tags: JasonNio/techtrends:latest
-          
+          tags: jasonnio/techtrends:latest
