@@ -32,3 +32,4 @@ jobs:
           file: ./project/Dockerfile
           push: true
           tags: JasonNio/techtrends:latest
+          
